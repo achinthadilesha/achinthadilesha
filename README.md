@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dileshaachintha" target="blank"><img src="https://img.shields.io/twitter/follow/dileshaachintha?logo=twitter&style=for-the-badge" alt="dileshaachintha" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on an **E-commerce** app
 
 - 🔭 I’m currently working on [Life's Moment](https://lifesmomentsapp.com/)
 
