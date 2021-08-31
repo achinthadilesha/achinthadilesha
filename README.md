@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **iOS, Flutter**
-
 - 🔭 I’m currently working on [Life's Moment](https://lifesmomentsapp.com/)
 
 - 🔭 I’m currently working on [Top Host](http://tophosts.sandbox20.preview.cx/)
+
+- 🌱 I’m currently learning **iOS, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/achinthadilesha](https://github.com/achinthadilesha)
 
